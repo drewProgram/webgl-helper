@@ -1,0 +1,18 @@
+{
+  "name": "webgl-helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/drewProgram/webgl-helper.git",
+  "author": "Andrew Filgueiras <andrew.lascasas@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+      "build": "tsc"
+  },
+  "bugs": {
+    "url": "https://github.com/drewProgram/webgl-helper/issues"
+  },
+  "homepage": "https://github.com/drewProgram/webgl-helper#readme",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
