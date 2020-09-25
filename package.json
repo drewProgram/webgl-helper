@@ -1,6 +1,6 @@
 {
   "name": "webgl-helper",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "description": "A helper for the WebGL lib.",
@@ -12,8 +12,12 @@
   ],
   "author": "Andrew Filgueiras <andrew.lascasas@gmail.com>",
   "license": "MIT",
+  "files": [
+    "lib"
+  ],
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "prepare": "yarn run build"
   },
   "bugs": {
     "url": "https://github.com/drewProgram/webgl-helper/issues"
