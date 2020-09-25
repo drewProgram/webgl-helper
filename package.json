@@ -1,6 +1,6 @@
 {
   "name": "webgl-helper",
-  "version": "1.0.1",
+  "version": "0.0.5",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "description": "A helper for the WebGL lib.",
@@ -9,9 +9,6 @@
     "WebGL",
     "helper",
     "utils"
-  ],
-  "files": [
-    "lib/*.js, lib/*.ts"
   ],
   "author": "Andrew Filgueiras <andrew.lascasas@gmail.com>",
   "license": "MIT",
