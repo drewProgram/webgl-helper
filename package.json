@@ -6,13 +6,22 @@
   "author": "Andrew Filgueiras <andrew.lascasas@gmail.com>",
   "license": "MIT",
   "scripts": {
-      "build": "tsc"
+    "build": "tsc"
   },
   "bugs": {
     "url": "https://github.com/drewProgram/webgl-helper/issues"
   },
   "homepage": "https://github.com/drewProgram/webgl-helper#readme",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.2.0",
+    "@typescript-eslint/parser": "^4.2.0",
+    "eslint": "^7.9.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.12.0",
+    "eslint-import-resolver-typescript": "^2.3.0",
+    "eslint-plugin-import": "2.21.2",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.1.2",
     "typescript": "^4.0.3"
   }
 }
